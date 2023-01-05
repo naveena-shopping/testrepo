@@ -1,1 +1,2 @@
 added line1 on github 
+addding line2 after cloning
